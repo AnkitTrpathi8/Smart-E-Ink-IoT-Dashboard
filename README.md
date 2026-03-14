@@ -111,6 +111,7 @@ This allows the dashboard to run for weeks on a battery.
 
 ---
 
+
 ## Hardware Used
 
 | Component | Purpose |
