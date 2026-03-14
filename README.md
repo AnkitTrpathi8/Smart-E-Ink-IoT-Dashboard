@@ -111,6 +111,10 @@ This allows the dashboard to run for weeks on a battery.
 
 ---
 ![Alt text](https://github.com/AnkitTrpathi8/Smart-E-Ink-IoT-Dashboard/blob/main/circuit/Screenshot%202026-03-14%20173620.jpg)
+![Alt text](https://github.com/AnkitTrpathi8/Smart-E-Ink-IoT-Dashboard/blob/main/pcb/Screenshot%202026-03-12%20225145.jpg)
+![Alt text](https://github.com/AnkitTrpathi8/Smart-E-Ink-IoT-Dashboard/blob/main/Smart-E-Ink-IoT-Dashboard/Fantabulous%20Hango-Kasi.png)
+
+
 ## Hardware Used
 
 | Component | Purpose |
