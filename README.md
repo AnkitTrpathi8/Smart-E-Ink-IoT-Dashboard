@@ -110,8 +110,7 @@ Typical behavior:
 This allows the dashboard to run for weeks on a battery.
 
 ---
-(https://github.com/AnkitTrpathi8/Smart-E-Ink-IoT-Dashboard/blob/main/circuit/Screenshot%202026-03-14%20173620.jpg)
-
+![Alt text](https://github.com/AnkitTrpathi8/Smart-E-Ink-IoT-Dashboard/blob/main/circuit/Screenshot%202026-03-14%20173620.jpg)
 ## Hardware Used
 
 | Component | Purpose |
